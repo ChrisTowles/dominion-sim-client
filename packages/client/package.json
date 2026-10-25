@@ -12,7 +12,7 @@
   "dependencies": {
     "@dominio-sim/shared": "workspace:*",
     "@mpaulprojects/dominion-sim-chart": "^0.0.5",
-    "axios": "^1.4.0",
+    "axios": "^1.20.0",
     "eslint-config-airbnb-typescript": "^17.1.0",
     "jose": "^4.14.4",
     "js-cookie": "^3.0.5",
